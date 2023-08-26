@@ -7,15 +7,14 @@
 </p>
 
   
-        <img align="center" src="./assets/Welcome.gif" />
+        
 
     <p align="center" width='100%'>
         <h1><a align='center' width='100%' href="https://charles0830.github.io/">TALENTED DEVELOPER</a></h1>
         <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
     </p>
     <p>
-        <img align="right" style="width:500px; height:400px;" 
-        src="./assets/Right_Side.gif" />
+     
      
         <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
     </p>
@@ -26,9 +25,7 @@
     <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
     ## 📈 Stats
     <p align="center">
-        <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
         <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
-        <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
 
     <p align="center">
         <img
@@ -48,5 +45,4 @@
     <p>
         <h2 align="center"><a href="https://github.com/charles0830?tab=repositories">Please give star to these projects(It need only 2 clicks)</a></h2>
     </p>
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
 
