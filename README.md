@@ -10,13 +10,13 @@
 </p>
 
 
-    <div style="display: flex; justify-content: center;">
+    <p style="display: flex; justify-content: center;">
         <img align="center" src="./assets/Welcome.gif" />
-    </div>
-    <div align="center" width='100%'>
+    </p>
+    <p align="center" width='100%'>
         <h1><a align='center' width='100%' href="https://charles0830.github.io/">TALENTED DEVELOPER</a></h1>
         <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
-    </div>
+    </p>
     <p>
         <img align="right" style="width:500px; height:400px;" 
         src="./assets/Right_Side.gif" />
@@ -34,14 +34,14 @@
         <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
 
-    <div align="center">
+    <p align="center">
         <img
             src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=8&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues,Organizations,Stars,Reviews">
-    </div>
-    <div align="center">  
+    </p>
+    <p align="center">  
       <img height="195px" src="https://github-readme-stats.vercel.app/api?username=charles0830&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
       <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-    </div>
+    </p>
     <p>
         <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
         <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
