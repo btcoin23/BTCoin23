@@ -8,9 +8,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=midasminer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tobby340602&theme=neon&hide_border=true&card_width=500)](https://git.io/streak-stats)
+  
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=tobby340602&theme=neon&hide_border=true&card_width=500)](https://git.io/streak-stats)
 ###
 
 <h2 align="center">🛠 Language and tools</h2>
