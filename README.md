@@ -22,10 +22,13 @@
         ## ⚡ Technologies
         <img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,,html,css,js,ts,next,nuxt,react,,solidity,prometheus,androidstudio,flutter,reactivex,aws,azure,cloudflare,,angular,nodejs,express,python,django,rails,ruby,,fastapi,go,java,codepen,git,github,gitlab,postman,,vue,laravel,php,qt,c,cpp,cs,,discord,bots,reactivex,swift,powershell,stackoverflow,styledcomponents,webpack,,figma,wordpress,mysql,postgresql,firebase,flask,dotnet,,kotlin,unity,linux,electron&perline=17"/>
     </p>
-    <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
-    ## 📈 Stats
-    <p align="center">
-        <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
+  <h1 align="left" id="macropower-title">Unity Game / Mobile App / Decentraland / Canvas Developer</h1>
+<p>
+  <img align="right" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611382bf04e5e70d777ebc7c2e988dad020877c25bf&rid=giphy.gif&ct=g" />
+<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Don't%20worry%20%20if%20it%20doesn't%20work%20right;8+%2B%20years%20of%20hands-on%20experience;If%20everything%20did,%20you'd%20be%20out%20of%20a%20job&center=true&width=500&height=45" />
+&nbsp;&nbsp;Senior Game Developer<strong>3+</strong> years of <strong>Experience</strong> in <strong>Designing</strong>, <strong>Developing</strong> and <strong>Integrating</strong> <strong>Payment Gateway<strong> & <strong>API<strong> based application .<br>
+&nbsp;&nbsp;<strong>Experience</strong> in developing mobile applications using <strong>Flutter</strong>, <strong>Android Studio</strong>, <strong>React Native</strong>, <strong>ObjectC</strong>, <strong>Swift</strong> and <strong>Xcode<strong>.<br>
+</p>
 
     <p align="center">
         <img
