@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Unreal Engine, Unity Game | Mobile App</h1>
+<h1 align="center">Unreal Engine, Unity Game | Mobile App Developer</h1>
 
 ###
 
