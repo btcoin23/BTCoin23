@@ -101,9 +101,3 @@
   
   
 </div>
-
-###
-
-<img src="github-user-contribution.svg" alt="Snake animation" />
-
-###
