@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Unreal Engine, Unity Game | Mobile App Developer</h1>
+<h1 align="center">Full Stack Developer / Blockchain Developer</h1>
 
 ###
 
@@ -17,20 +17,27 @@
 
 ###
 
-<h3 align="center">Game Development</h4>
+<h3 align="center">Web Development</h4>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unreal logo"  />
+  <img src="https://skillicons.dev/icons?i=next" height="40"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40"  />
   <img width="12" />
-  
+  <img src="https://skillicons.dev/icons?i=mongo" height="40"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mui" height="40"  />
+  <img width="12" />  
   
 </div>
 
