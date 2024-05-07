@@ -43,10 +43,6 @@
 
 ###
 
-<h3 align="center">Mobile App development</h4>
-
-###
-
 <div align="center">
 <!--   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
