@@ -11,6 +11,12 @@
   <img src="https://streak-stats.demolab.com/?user=srdev23&theme=neon&hide_border=true&card_width=500" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<h2 align="center">Popular software tools and programming languages</h2>
+
+###
+
 <table align="center">
   <tr>
     <td align="center" width="96">
