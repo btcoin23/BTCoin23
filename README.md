@@ -238,11 +238,7 @@
 <p align="center">
   <a>
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=btcoin23&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      src="https://komarev.com/ghpvc/?username=btcoin23&&style=flat-square"
       width="95%" alt="activity graph">
   </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=btcoin23&&style=flat-square" align="center" />
-</div> 
