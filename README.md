@@ -6,17 +6,6 @@
 
 <br clear="both" />
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=BTCoin23&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
-    height="175"
-    alt="languages graph" />
-  <img
-    src="https://streak-stats.demolab.com/?user=BTCoin23&theme=neon&hide_border=true&card_width=420"
-    height="175"
-    alt="languages graph" />
-</div>
-
 ###
 
 <h2 align="center">Popular Software Tools & Programming Languages</h2>
@@ -225,6 +214,21 @@
     </td>
   </tr>
 </table>
+
+###
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=BTCoin23&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
+    height="48%"
+    alt="languages graph" />
+  <img
+    src="https://streak-stats.demolab.com/?user=BTCoin23&theme=neon&hide_border=true&card_width=420"
+    height="48%"
+    alt="languages graph" />
+</div>
+
+###
 
 <p align="center">
   <a href="https://github.com/BinaryBard-0604?tab=repositories">
