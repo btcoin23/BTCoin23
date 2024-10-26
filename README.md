@@ -5,6 +5,18 @@
 ###
 
 <br clear="both" />
+###
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=BTCoin23&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
+    height="48%"
+    alt="languages graph" />
+  <img
+    src="https://streak-stats.demolab.com/?user=BTCoin23&theme=neon&hide_border=true&card_width=420"
+    height="45%"
+    alt="languages graph" />
+</div>
 
 ###
 
@@ -214,19 +226,6 @@
     </td>
   </tr>
 </table>
-
-###
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=BTCoin23&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
-    height="48%"
-    alt="languages graph" />
-  <img
-    src="https://streak-stats.demolab.com/?user=BTCoin23&theme=neon&hide_border=true&card_width=420"
-    height="48%"
-    alt="languages graph" />
-</div>
 
 ###
 
