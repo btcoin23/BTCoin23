@@ -5,6 +5,7 @@
 ###
 
 <br clear="both" />
+
 ###
 
 <div align="center">
@@ -14,7 +15,7 @@
     alt="languages graph" />
   <img
     src="https://streak-stats.demolab.com/?user=BTCoin23&theme=neon&hide_border=true&card_width=420"
-    height="45%"
+    height="40%"
     alt="languages graph" />
 </div>
 
