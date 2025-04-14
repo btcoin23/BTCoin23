@@ -230,10 +230,10 @@
 
 <p align="center">
   <a href="https://github.com/btcoin23?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=btcoin23&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="@btcoin23's github-readme-stats-one-bice"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=btcoin23&&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="@btcoin23's github-readme-stats-one-bice"/>
   </a>
   <a href="https://github.com/btcoin23?tab=stars">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=btcoin23&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@btcoin23's github-readme-streak-stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=btcoin23&&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@btcoin23's github-readme-streak-stats"/>
   </a>
 </p>
 
