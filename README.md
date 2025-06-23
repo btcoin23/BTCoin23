@@ -12,7 +12,7 @@
     width="54%"
     alt="languages graph" />
   <img
-    src="https://streak-stats.demolab.com?user=btcoin23&theme=neon&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat"
+    src="https://streak-stats.demolab.com?user=btcoin23&theme=neon&hide_border=true&card_width=420"
     width="45%"
     alt="languages graph" />
 </div>
